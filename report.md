@@ -16,7 +16,9 @@
 
 [Исходный код программы](https://github.com/Anton10011/Java1.2/blob/master/src/Main.java) 
 
-В качестве тестовых данных использовались данные из [Сайта генераторов банковских карт](freeformatter.com):
+[Руководству по установке IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
+
+В качестве тестовых данных использовались данные из [Сайта генераторов банковских карт](https://www.freeformatter.com/credit-card-number-generator-validator.html):
 
 **VISA:**
 
